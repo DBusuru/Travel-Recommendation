@@ -1,0 +1,38 @@
+{
+  "beaches": [
+    {
+      "name": "Bondi Beach, Australia",
+      "description": "A world-famous beach known for surfing, golden sand, and vibrant lifestyle.",
+      "imageUrl": "https://picsum.photos/400/250?beach1"
+    },
+    {
+      "name": "Waikiki Beach, Hawaii",
+      "description": "Iconic beach with crystal-clear waters and lively nightlife.",
+      "imageUrl": "https://picsum.photos/400/250?beach2"
+    }
+  ],
+  "temples": [
+    {
+      "name": "Angkor Wat, Cambodia",
+      "description": "The largest religious monument in the world, rich with history.",
+      "imageUrl": "https://picsum.photos/400/250?temple1"
+    },
+    {
+      "name": "Kinkaku-ji, Japan",
+      "description": "The Golden Pavilion, a Zen Buddhist temple covered in gold leaf.",
+      "imageUrl": "https://picsum.photos/400/250?temple2"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Italy",
+      "description": "A European country famous for its art, history, and cuisine.",
+      "imageUrl": "https://picsum.photos/400/250?country1"
+    },
+    {
+      "name": "Kenya",
+      "description": "An African country known for safaris, wildlife, and breathtaking landscapes.",
+      "imageUrl": "https://picsum.photos/400/250?country2"
+    }
+  ]
+}
